@@ -1,2 +1,2 @@
 # Amazon-Review-System
-Amazon review analysis using NLP and Machine Learning
+Amazon review sentiment analysis using NLP and Machine Learning
